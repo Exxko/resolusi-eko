@@ -3,3 +3,4 @@ resolusi
 - jago publik speaking
 - bisa buat aplikasi sederhana
 - membangun habit gym/workout
+- bisa C++
